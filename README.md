@@ -1,1 +1,1 @@
-# sicp-explained
+# SICP explained
